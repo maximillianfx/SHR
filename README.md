@@ -2,7 +2,9 @@
 Repositório destinado a conter o código do projeto de pesquisa (PIBIC-2015/2016) para detecção de frequência cardíaca
 
 Alunos: Maximillian Fan Xavier e Otávio Alves Dias
+
 Professor Orientador: Eduardo Peixoto Fernandes da Silva
+
 Universidade de Brasília, Brasília/DF, Brasil
 
 Período de execução: 2015-2016
